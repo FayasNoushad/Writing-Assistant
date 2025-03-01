@@ -1,0 +1,38 @@
+.auth {
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: fit-content;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+.auth:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.auth-heading {
+    text-align: center;
+}
+
+
+.password-wrong {
+    display: block;
+    color: #ff3300;
+    margin-bottom: 2px;
+}
+
+.submit-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-or-register-msg {
+    color: #3386f3;
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    cursor: pointer;
+}

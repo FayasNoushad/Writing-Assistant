@@ -1,0 +1,14 @@
+.home {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.drafts {
+    margin: 50px;
+}
+
+span.draft-id {
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: small;
+}
