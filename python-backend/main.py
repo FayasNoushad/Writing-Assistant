@@ -31,7 +31,7 @@ def to_markdown(text):
 
 def convert(text: str, type: str) -> str:
     genai.configure(api_key=api)
-    model = genai.GenerativeModel("gemini-pro")
+    model = genai.GenerativeModel("gemini-1.5-pro")
     if type == "grammar":
         query = f"Fix the grammar and spelling of this text and give me the corrected text only: {text}"
     else:

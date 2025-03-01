@@ -85,3 +85,12 @@ An AI-powered writing assistant website built with a ReactJS frontend and a back
 4. The frontend server will start running on `http://localhost:5173`.
 
 ---
+
+## Screenshots
+
+<img src="./screenshots/home.png" width="45%" style="margin: 10px;">
+<img src="./screenshots/draft.png" width="45%" style="margin: 10px;">
+<img src="./screenshots/register.png" width="45%" style="margin: 10px;">
+<img src="./screenshots/login.png" width="45%" style="margin: 10px;">
+
+---
